@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://singular-empanada-c81064.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/ramonaurelio/the-my-team-page-project">
       Solution
     </a>
     <span> | </span>
@@ -40,7 +40,7 @@
 ![screenshot](./img/Screenshot_2.png)
 
 I really enjoyed the short time working on this project. I improved on the use of the flexbox and grid property in CSS3.
-You can find the demo of the webpage [here]()
+You can find the demo of the webpage [here](https://singular-empanada-c81064.netlify.app/)
 
 ### Built With
 
